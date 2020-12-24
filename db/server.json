@@ -1,0 +1,182 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "my_challenges": [
+    {
+      "id": 1,
+      "title": "30 days of Front",
+      "description": "Super cool challenge to learn front in 30 days",
+      "current_day": 1
+    },
+    {
+      "id": 3,
+      "title": "Classic Movie Challenge",
+      "description": "Enjoy classics each evening of the month",
+      "current_day": 1
+    }
+  ],
+  "challenges": [
+    {
+      "id": 0,
+      "title": "30 days of Front",
+      "description": "Super cool challenge to learn front in 30 days",
+      "current_day": 1
+    },
+    {
+      "id": 1,
+      "title": "2 Weeks of Sport",
+      "description": "Get in shape in 14 days",
+      "current_day": 1
+    },
+    {
+      "id": 2,
+      "title": "Meditation Challenge",
+      "description": "Develop a meditation habit in 10 days",
+      "current_day": 1
+    },
+    {
+      "id": 3,
+      "title": "Classic Movie Challenge",
+      "description": "Enjoy classics each evening of the month",
+      "current_day": 1
+    },
+    {
+      "id": 4,
+      "title": "INKtober",
+      "description": "31 day of Spooky drawings",
+      "current_day": 1
+    }
+  ],
+  "challenge_days": [
+    {
+      "challenge_id": 0,
+      "day": 1,
+      "title": "TypeScript basics: explore major data types (boolean, string, numerical types, arrays and lists).",
+      "info": "Some important info to help",
+      "done": null
+    },
+    {
+      "challenge_id": 0,
+      "day": 2,
+      "title": "TypeScript basics: classes and functions, tell me the difference, fella.",
+      "info": "Some important info to help",
+      "done": null
+    },
+    {
+      "challenge_id": 0,
+      "day": 3,
+      "title": "TypeScript basics: if and else, switch and case, set and get to learn today.",
+      "info": "Some important info to help",
+      "done": null
+    },
+    {
+      "challenge_id": 0,
+      "day": 4,
+      "title": "TypeScript basics: create simple functions for a calculator (SUM, SUB, DIV, MUL, etc.)!",
+      "info": "Some important info to help",
+      "done": null
+    },
+    {
+      "challenge_id": 0,
+      "day": 5,
+      "title": "TypeScript basics: give your calculator life - add some html!",
+      "info": "Some important info to help",
+      "done": null
+    },
+    {
+      "challenge_id": 3,
+      "day": 1,
+      "title": "2001: A Space Odyssey (1968)",
+      "info": "The greatest film ever made began with the meeting of two brilliant minds: Stanley Kubrick and sci-fi seer Arthur C. Clarke.",
+      "done": null
+    },
+    {
+      "challenge_id": 3,
+      "day": 2,
+      "title": "The Godfather (1972)",
+      "info": "From the wise guys of Goodfellas to The Sopranos, all crime dynasties that came after The Godfather are descendants of the Corleones.",
+      "done": null
+    },
+    {
+      "challenge_id": 3,
+      "day": 3,
+      "title": "Raiders of the Lost Ark (1981)",
+      "info": "Steven Spielberg’s funnest blockbuster has it all: rolling boulders, a treacherous monkey, a champagne-drinking villan.",
+      "done": null
+    },
+    {
+      "challenge_id": 3,
+      "day": 4,
+      "title": "Goodfellas (1990)",
+      "info": "The romance of the mob lifestyle—the food, the nightclubs, the cheating, the violence—made for a glittering surface.",
+      "done": null
+    },
+    {
+      "challenge_id": 3,
+      "day": 5,
+      "title": "Mulholland Drive (2001)",
+      "info": " David Lynch’s glamorous nightmare of Los Angeles is dense with mystery, terror and uncanny sexiness.",
+      "done": null
+    },
+    {
+      "challenge_id": 1,
+      "day": 1,
+      "title": "Run, Forest, Run",
+      "info": "Today's exercise is at least 5 km running trace!",
+      "done": null
+    },
+    {
+      "challenge_id": 1,
+      "day": 1,
+      "title": "Run, Forest, Run",
+      "info": "Today's exercise is at least 5 km running trace!",
+      "done": null
+    },
+    {
+      "challenge_id": 1,
+      "day": 2,
+      "title": "Squats to go",
+      "info": "3 sets of 20 squats, buddy. Let's go!",
+      "done": null
+    },
+    {
+      "challenge_id": 2,
+      "day": 1,
+      "title": "Evening Meditation",
+      "info": "30 minutes of meditation before sleeping",
+      "done": null
+    },
+    {
+      "challenge_id": 2,
+      "day": 2,
+      "title": "Evening meditation",
+      "info": "Round 2: 30 minutes before sleeping",
+      "done": null
+    },
+    {
+      "challenge_id": 4,
+      "day": 1,
+      "title": "Vampires",
+      "info": "Draw some bloody monsters!",
+      "done": null
+    },
+    {
+      "challenge_id": 4,
+      "day": 2,
+      "title": "Frankenstein",
+      "info": "Draw your variation of famous fire fearful buddy!",
+      "done": null
+    },
+    {
+      "challenge_id": 4,
+      "day": 1,
+      "title": "Squats to go",
+      "info": "3 sets of 20 squats, buddy. Let's go!",
+      "done": null
+    }
+  ]
+}
